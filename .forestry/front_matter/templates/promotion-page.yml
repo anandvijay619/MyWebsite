@@ -1,0 +1,11 @@
+---
+label: Promotion Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Title
+  label: Page Title
+  name: page-title
+  config:
+    required: true
