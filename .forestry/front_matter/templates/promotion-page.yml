@@ -9,3 +9,5 @@ fields:
   name: page-title
   config:
     required: true
+pages:
+- promotions-page.md
